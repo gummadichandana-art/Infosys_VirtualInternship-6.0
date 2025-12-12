@@ -1,0 +1,10 @@
+# requirements.txt
+streamlit
+pandas
+numpy
+joblib
+tensorflow
+plotly
+google-generativeai
+scikit-learn
+catboost

@@ -1,0 +1,13 @@
+# Ignore the Streamlit secrets file
+.streamlit/secrets.toml
+
+# Ignore the virtual environment folder
+.venv/
+venv/
+__pycache__/
+
+# Ignore the SQLite database file
+*.db
+
+# Ignore user-uploaded receipt images
+expense_images/
